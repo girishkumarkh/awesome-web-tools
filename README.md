@@ -1,5 +1,5 @@
 # Awesome Web Tools
-Collection of great web tools
+Collection of great web tools (Growing list)
 
 ### :information_desk_person: Frontend (Designs/UI) 
 `Using CSS JS HTML stuff`
@@ -9,7 +9,12 @@ Collection of great web tools
 - layzr.js `A small, fast, and modern library for lazy loading images` - http://callmecavs.com/layzr.js/
 - Timesheet.js `Create simple time sheets` - http://sbstjn.github.io/timesheet.js/
 - Photoswipe `JavaScript gallery, no dependencies` - http://photoswipe.com/
+- jQuery.dragmove `Lightweight jQ - draggable functionality on DOM` - https://github.com/nathco/jQuery.dragmove
+- Hover.css `hover effects for links, buttons, logos, SVG & images` - http://ianlunn.github.io/Hover/
+- 
 
+###### Frontend Design Tools:
+- CSS Ruler - http://katydecorah.com/css-ruler/
 
 ### :guardsman: Frontend (Frameworks)
 `Crazy JS stuff mostly`

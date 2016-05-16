@@ -11,7 +11,7 @@ Collection of great web tools (Growing list)
 - Photoswipe `JavaScript gallery, no dependencies` - http://photoswipe.com/
 - jQuery.dragmove `Lightweight jQ - draggable functionality on DOM` - https://github.com/nathco/jQuery.dragmove
 - Hover.css `hover effects for links, buttons, logos, SVG & images` - http://ianlunn.github.io/Hover/
-- 
+
 
 ###### Frontend Design Tools:
 - CSS Ruler - http://katydecorah.com/css-ruler/

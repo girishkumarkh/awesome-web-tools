@@ -30,7 +30,7 @@ Collection of great web tools (Growing list)
 - Docker - https://www.docker.com/
 - Vagrant `Development environments made easy.` - https://www.vagrantup.com/
 
-### :anchor:Deployment Tools `Tools which help making deployment easy #mostly-automated`
+### :anchor: Deployment Tools `Tools which help making deployment easy #mostly-automated`
 - Deploybot `Easy Deploy` - https://deploybot.com/
 
 ### :cloud: Hosting Tools `List of great hosting solutions`

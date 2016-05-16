@@ -1,7 +1,7 @@
 # Awesome Web Tools
-Collection of great web tools (Growing list)
+ A curated list of great web tools (Growing list)
 
-### :information_desk_person: Frontend (Designs/UI) `Using CSS JS HTML stuff`
+### :information_desk_person: Frontend (Toolkits/Designs/UIs) `Using CSS JS HTML stuff`
 - A better credit card form in one line of code :credit_card: - https://github.com/jessepollak/card
 - Distorted Button Effects `USING SVG FILTERS` - http://tympanus.net/Development/DistortedButtonEffects/
 - Simple Grid `Responsive, light, simple` - http://simplegrid.io/
@@ -10,9 +10,18 @@ Collection of great web tools (Growing list)
 - Photoswipe `JavaScript gallery, no dependencies` - http://photoswipe.com/
 - jQuery.dragmove `Lightweight jQ - draggable functionality on DOM` - https://github.com/nathco/jQuery.dragmove
 - Hover.css `hover effects for links, buttons, logos, SVG & images` - http://ianlunn.github.io/Hover/
+- Animated Headlines - https://codyhouse.co/demo/animated-headlines/index.html
+- is.js `Check types, regexps, presence, time and more` - http://is.js.org/
+- Mprogress.js `linear progressbar from Google Material Design` - http://lightningtgc.github.io/MProgress.js/
+- Social Share Kit `social sharing tools` - http://socialsharekit.com/ •Non-commercial use ONLY•
+- Chartist.js `SIMPLE RESPONSIVE CHARTS` - http://gionkunz.github.io/chartist-js/index.html
+- MetricsGraphics.js ` D3 based visualization for time-series data.` - http://metricsgraphicsjs.org/
+- Nightmare.js `Simplify deeply nested callbacks` - http://www.nightmarejs.org/
 
 ###### Frontend Design Tools:
 - CSS Ruler - http://katydecorah.com/css-ruler/
+- Coolors -https://coolors.co/
+
 
 ### :guardsman: Frontend (Frameworks) `Crazy JS stuff mostly`
 - React `V in MVC` - https://facebook.github.io/react/
@@ -21,6 +30,7 @@ Collection of great web tools (Growing list)
 ### :coffee: Backend `All magic which goes behind the server`
 - Zapier `Connect Your Apps and Automate Workflows` - https://zapier.com/
 - RethinkDB `The open-source database for the realtime web` - http://www.rethinkdb.com/
+- APIs.io `API Search service to help discover APIs on the web` - http://apis.io/
 
 ###### Django:
 - Great list of tools for django - http://awesome-django.com/

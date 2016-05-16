@@ -3,7 +3,7 @@
 
 # Frontend (Designs/UI) 
 `Using CSS JS HTML stuff`
-- A better credit card form in one line of code - https://github.com/jessepollak/card
+- A better credit card form in one line of code :credit_card: - https://github.com/jessepollak/card
 
 # Frontend (Frameworks)
 `Crazy JS stuff mostly`

@@ -1,5 +1,5 @@
 # awesome-web-tools
-:sparkles: :octocat: collection of :tada: web tools :fire:
+collection of great web tools
 
 # Frontend (Designs/UI) 
 `Using CSS JS HTML stuff`
@@ -9,3 +9,4 @@
 `Crazy JS stuff mostly`
 
 # Backend
+`All magic which goes in the server`

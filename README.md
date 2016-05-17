@@ -17,7 +17,7 @@
 - Chartist.js `SIMPLE RESPONSIVE CHARTS` - http://gionkunz.github.io/chartist-js/index.html
 - MetricsGraphics.js ` D3 based visualization for time-series data.` - http://metricsgraphicsjs.org/
 - Nightmare.js `Simplify deeply nested callbacks` - http://www.nightmarejs.org/
-- Web Performance Optimization `A curated list of Web Performance Optimization` - https://github.com/davidsonfellipe/awesome-wpo#articles
+- Web Performance Optimization `A curated list of Web Performance Optimization` - https://github.com/davidsonfellipe/awesome-wpo
 - Scrollmagic `magical scroll interactions` - http://scrollmagic.io/
 - Scroll Reveal JS `Easy scroll animations` - https://scrollrevealjs.org/
 - Progressbar.js `Responsive and slick progress bars` - https://github.com/kimmobrunfeldt/progressbar.js

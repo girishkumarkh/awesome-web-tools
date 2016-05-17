@@ -17,6 +17,11 @@
 - Chartist.js `SIMPLE RESPONSIVE CHARTS` - http://gionkunz.github.io/chartist-js/index.html
 - MetricsGraphics.js ` D3 based visualization for time-series data.` - http://metricsgraphicsjs.org/
 - Nightmare.js `Simplify deeply nested callbacks` - http://www.nightmarejs.org/
+- Web Performance Optimization `A curated list of Web Performance Optimization` - https://github.com/davidsonfellipe/awesome-wpo#articles
+- Scrollmagic `magical scroll interactions` - http://scrollmagic.io/
+- Scroll Reveal JS `Easy scroll animations` - https://scrollrevealjs.org/
+- Progressbar.js `Responsive and slick progress bars` - https://github.com/kimmobrunfeldt/progressbar.js
+- Lazysizes `SEO friendly lazy loader for images` - https://github.com/aFarkas/lazysizes
 
 ###### Frontend Design Tools:
 - CSS Ruler - http://katydecorah.com/css-ruler/
@@ -37,6 +42,7 @@
 - Custom Django Admin Interface - https://github.com/fabiocaccamo/django-admin-interface
 
 ### :pencil: Development Tools `Tools which help aid development`
+- Sublime Text 3 `Text Editor` - https://www.sublimetext.com/3
 - Docker - https://www.docker.com/
 - Vagrant `Development environments made easy.` - https://www.vagrantup.com/
 

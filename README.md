@@ -1,5 +1,6 @@
 # Awesome Web Tools
- A curated list of great web tools (Growing list)
+ A curated list of great web tools (Growing list) 
+ others - https://github.com/sindresorhus/awesome
 
 ### :information_desk_person: Frontend (Toolkits/Designs/UIs) `Using CSS JS HTML stuff`
 - A better credit card form in one line of code :credit_card: - https://github.com/jessepollak/card

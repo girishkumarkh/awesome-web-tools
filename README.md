@@ -23,6 +23,8 @@
 - Scroll Reveal JS `Easy scroll animations` - https://scrollrevealjs.org/
 - Progressbar.js `Responsive and slick progress bars` - https://github.com/kimmobrunfeldt/progressbar.js
 - Lazysizes `SEO friendly lazy loader for images` - https://github.com/aFarkas/lazysizes
+- Midnight.js `switch fixed headers on the fly` - http://aerolab.github.io/midnight.js
+- Intro.js `Step-by-step guide and feature introduction` - http://introjs.com/
 
 ###### Frontend Design Tools:
 - CSS Ruler - http://katydecorah.com/css-ruler/

@@ -2,7 +2,7 @@
  A curated list of great web tools (Growing list) 
  others - https://github.com/sindresorhus/awesome
 
-### :information_desk_person: Frontend (Toolkits/Designs/UIs) `Using CSS JS HTML stuff`
+### :information_desk_person: Frontend (Toolkits/Designs/Snippets/UIs) `Using CSS JS HTML stuff`
 - A better credit card form in one line of code :credit_card: - https://github.com/jessepollak/card
 - Distorted Button Effects `USING SVG FILTERS` - http://tympanus.net/Development/DistortedButtonEffects/
 - Simple Grid `Responsive, light, simple` - http://simplegrid.io/
@@ -25,6 +25,7 @@
 - Lazysizes `SEO friendly lazy loader for images` - https://github.com/aFarkas/lazysizes
 - Midnight.js `switch fixed headers on the fly` - http://aerolab.github.io/midnight.js
 - Intro.js `Step-by-step guide and feature introduction` - http://introjs.com/
+- Contact form - https://codyhouse.co/demo/contact-form/index.html
 
 ###### Frontend Design Tools:
 - CSS Ruler - http://katydecorah.com/css-ruler/

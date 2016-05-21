@@ -31,6 +31,8 @@
 - CSS Ruler - http://katydecorah.com/css-ruler/
 - Coolors -https://coolors.co/
 
+###### Design Inspiration:
+- http://talkaboutdesign.com/
 
 ### :guardsman: Frontend (Frameworks) `Crazy JS stuff mostly`
 - React `V in MVC` - https://facebook.github.io/react/

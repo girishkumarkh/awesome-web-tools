@@ -26,6 +26,7 @@
 - Midnight.js `switch fixed headers on the fly` - http://aerolab.github.io/midnight.js
 - Intro.js `Step-by-step guide and feature introduction` - http://introjs.com/
 - Contact form - https://codyhouse.co/demo/contact-form/index.html
+- FAQ - https://codyhouse.co/demo/faq-template/index.html
 
 ###### Frontend Design Tools:
 - CSS Ruler - http://katydecorah.com/css-ruler/

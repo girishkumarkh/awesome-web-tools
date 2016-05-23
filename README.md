@@ -25,6 +25,7 @@
 - Lazysizes `SEO friendly lazy loader for images` - https://github.com/aFarkas/lazysizes
 - Midnight.js `switch fixed headers on the fly` - http://aerolab.github.io/midnight.js
 - Intro.js `Step-by-step guide and feature introduction` - http://introjs.com/
+- Family.scss `20 smart Sass mixins` - http://lukyvj.github.io/family.scss/
 - Contact form - https://codyhouse.co/demo/contact-form/index.html
 - FAQ - https://codyhouse.co/demo/faq-template/index.html
 

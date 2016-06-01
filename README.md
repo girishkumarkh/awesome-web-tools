@@ -56,6 +56,7 @@
 - Great list of tools for django - http://awesome-django.com/
 - Custom Django Admin Interface - https://github.com/fabiocaccamo/django-admin-interface
 - An enhanced permission library - https://github.com/lambdalisue/django-permission/
+- Cookiecutter - https://github.com/pydanny/cookiecutter-django
 
 ### :pencil: Development Tools `Tools which help aid development`
 - Sublime Text 3 `Text Editor` - https://www.sublimetext.com/3

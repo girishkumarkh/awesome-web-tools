@@ -37,7 +37,7 @@
 ###### Frontend Design Tools:
 - CSS Ruler - http://katydecorah.com/css-ruler/
 - Coolors -https://coolors.co/
-- 
+
 ###### Frontend JS Editors:
 - tinymce - https://www.tinymce.com/
 

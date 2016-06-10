@@ -32,6 +32,7 @@
 - Spectre.css - https://picturepan2.github.io/spectre/
 - Contact form - https://codyhouse.co/demo/contact-form/index.html
 - FAQ - https://codyhouse.co/demo/faq-template/index.html
+- holmes.js - https://haroen.me/holmes/
 
 ###### Frontend Design Tools:
 - CSS Ruler - http://katydecorah.com/css-ruler/

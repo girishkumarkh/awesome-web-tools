@@ -33,6 +33,7 @@
 - Contact form - https://codyhouse.co/demo/contact-form/index.html
 - FAQ - https://codyhouse.co/demo/faq-template/index.html
 - holmes.js - https://haroen.me/holmes/
+- anime.js - http://anime-js.com/
 
 ###### Frontend Design Tools:
 - CSS Ruler - http://katydecorah.com/css-ruler/

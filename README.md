@@ -34,6 +34,7 @@
 - FAQ - https://codyhouse.co/demo/faq-template/index.html
 - holmes.js - https://haroen.me/holmes/
 - anime.js - http://anime-js.com/
+- Download HTML page to PDF (jsPDF) - https://github.com/MrRio/jsPDF
 
 ###### Frontend Design Tools:
 - CSS Ruler - http://katydecorah.com/css-ruler/
